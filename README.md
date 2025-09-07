@@ -1,5 +1,5 @@
 # 2024_WFPI_Stochastic_Model
-Stochastic WFPI Model for power-grid shutoff projections made for the Program on Coupled Human and Earth Systems (PCHES).
+Stochastic WFPI Model for power-grid shutoff projections.
 
 Theo Avila<sup>1*</sup>, David Lafferty<sup>2</sup>, Spencer Guerrero<sup>2</sup>, Ryan L. Sriver<sup>2</sup><br>
 
